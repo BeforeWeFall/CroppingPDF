@@ -14,7 +14,7 @@ namespace CroppingPDF
 
             R = new int[image2.Width, image2.Height];
             G = new int[image2.Width, image2.Height];
-            B = new int[image2.Width, image2.Height];
+            B = new int[image2.Width, image2.Height]; 
 
             LockBitmap lockBitmap = new LockBitmap(image2);
             lockBitmap.LockBits();
