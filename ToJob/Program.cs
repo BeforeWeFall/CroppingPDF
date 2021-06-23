@@ -7,7 +7,7 @@ using System.IO;
 using System.Text;
 
 
-namespace ToJob
+namespace CroppingPDF
 {
     class Program
     {

@@ -4,7 +4,7 @@ using System.Drawing;
 using System.IO;
 
 
-namespace ToJob
+namespace CroppingPDF
 {
     class PDF
     {

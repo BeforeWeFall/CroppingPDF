@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace ToJob
+namespace CroppingPDF
 {
         struct Bord
         {
